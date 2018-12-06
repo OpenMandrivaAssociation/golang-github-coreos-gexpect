@@ -1,0 +1,7 @@
+hash: 73f85677c34bd2b1a85fdc780456d49428c9ac12be04dc7b9758dd79e18b104c
+imports:
+- name: github.com/kballard/go-shellquote
+  version: d8ec1a69a250a17bb0e419c386eac1f3711dc142
+- name: github.com/kr/pty
+  version: fe7bf4339680885ba71b3e0a2b07ff378a9020e4
+updated: '2018-06-09T14:22:36.205088+00:00'

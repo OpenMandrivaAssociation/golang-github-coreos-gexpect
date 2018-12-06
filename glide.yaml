@@ -1,0 +1,7 @@
+import:
+- package: github.com/kballard/go-shellquote
+  version: d8ec1a69a250a17bb0e419c386eac1f3711dc142
+- package: github.com/kr/pty
+  version: fe7bf4339680885ba71b3e0a2b07ff378a9020e4
+package: github.com/coreos/gexpect
+
